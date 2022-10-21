@@ -15,7 +15,7 @@
     - Videogames
     - Filmmaking
     - Finance and investments
-
+# ----------------------------------
 ## Etudiant en programmation
 ### Expérience en programmation
     Tandisque je n'ai pas d'expérience en programmation, j'ai beaucoups d'expérience avec les ordinateurs en plus de quelques macros d'Excel.
