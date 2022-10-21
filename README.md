@@ -9,7 +9,7 @@
 ### Expectations for the program
     - Build a solid foundation in computer programming.
     - Learn the skills necessary to begin working as a programmer.
-
+    - Obtain the skills to be able to begin developping simple applications on my own.
 ### Interests
     - Cybersecurity
     - Videogames
@@ -17,7 +17,7 @@
     - Finance and investments
     - Soccer (Manchester United)
 # ----------------------------------
-## Etudiant en programmation
+## Étudiant en programmation
 ### Expérience en programmation
     Tandisque je n'ai pas d'expérience en programmation, j'ai beaucoups d'expérience avec les ordinateurs en plus de quelques macros d'Excel.
 ### Attentes envers le cours
@@ -27,7 +27,7 @@
 ### Attentes envers le programme 
     - Bâtir une base solide en programmation informatique.
     - Apprendre les compétences nécessaires pour commencer à travailler en tant que programmeur.
-
+    - Obtenir les compétences qui me permetteront de commencer à développer des applications tout seul.
 ### Intérêts
     - La cyber-sécurité
     - Jeux vidéos
