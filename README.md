@@ -15,6 +15,7 @@
     - Videogames
     - Filmmaking
     - Finance and investments
+    - Soccer (Manchester United)
 # ----------------------------------
 ## Etudiant en programmation
 ### Expérience en programmation
@@ -32,3 +33,4 @@
     - Jeux vidéos
     - Filmes et techniques de cinéma
     - Finance et investissements
+    - Soccer (Manchester United)
