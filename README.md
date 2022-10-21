@@ -9,3 +9,9 @@
 ### Expectations for the program
     - Build a solid foundation in computer programming to improve upon with additional skills and experience.
     - Learn the skills necessary to begin working as a programmer.
+
+### Interests
+    - Cybersecurity
+    - Videogames
+    - Filmmaking
+    - Finance and investments
