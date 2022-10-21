@@ -7,5 +7,5 @@
     - Learn the main types of tools/software to be used for programming.
     - Enjoy making my first programming project.
 ### Expectations for the program
-    - Build a solid foundation in computer programming to improve upon.
+    - Build a solid foundation in computer programming to improve upon with additional skills and experience.
     - Learn the skills necessary to begin working as a programmer.
